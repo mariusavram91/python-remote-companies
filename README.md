@@ -18,3 +18,4 @@ The Scale Factory | http://www.scalefactory.com | UK
 HackerOne | https://hackerone.com | Worldwide
 Analytics Fire | http://analyticsfire.com | Pacific TZ
 DigitalOcean | https://www.digitalocean.com/company/careers | Worldwide
+Pluralsight | https://www.pluralsight.com/careers | Worldwide

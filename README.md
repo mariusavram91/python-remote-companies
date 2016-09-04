@@ -16,3 +16,5 @@ BetaSmartz | http://www.betasmartz.com | Worldwide
 Hotjar | http://www.hotjar.com | European Timezone
 The Scale Factory | http://www.scalefactory.com | UK
 HackerOne | https://hackerone.com | Worldwide
+Analytics Fire | http://analyticsfire.com | Pacific TZ
+DigitalOcean | https://www.digitalocean.com/company/careers | Worldwide

@@ -31,3 +31,7 @@ None or list cities where you have an office.
 ## How to apply for a job
 
 A link or description on how to apply for a job at your company.
+
+## Social Media links
+
+Links to the company's Social Media accounts where they can be followed.

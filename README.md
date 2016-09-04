@@ -12,3 +12,6 @@ This is inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and 
 Name | Website | Region
 ------------ | ------- | -------
 BetaSmartz | http://www.betasmartz.com | Worldwide
+Hotjar | http://www.hotjar.com | European Timezone
+The Scale Factory | http://www.scalefactory.com | UK
+HackerOne | https://hackerone.com | Worldwide

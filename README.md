@@ -11,4 +11,4 @@ This is inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and 
 
 Name | Website | Region
 ------------ | ------- | -------
-[Example](/companies/example.md) | https://example.com | Worldwide
+BetaSmartz | http://www.betasmartz.com | Worldwide

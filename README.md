@@ -24,3 +24,4 @@ Citrusbyte | http://careers.citrusbyte.com | Worldwide
 Zoomforth | https://zoomforth.com | Worldwide
 DroneDeploy | https://www.dronedeploy.com | Worldwide
 OpenCraft | http://opencraft.com | Worldwide
+DataFox | http://www.datafox.com/company/careers | US

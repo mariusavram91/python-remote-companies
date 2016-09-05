@@ -25,3 +25,5 @@ Zoomforth | https://zoomforth.com | Worldwide
 DroneDeploy | https://www.dronedeploy.com | Worldwide
 OpenCraft | http://opencraft.com | Worldwide
 DataFox | http://www.datafox.com/company/careers | US
+Stanson Health | https://www.stansonhealth.com/careers | US
+CastLabs | castlabs.com/company/jobs | Europe, USA or Southeast Asia

@@ -1,11 +1,11 @@
 # python-remote-companies
 
-A list with companies that allow remote work and use Python.
+A list of companies that allow remote work and use Python.
 
-Contributions are welcomed! Submit your company adding you company file to
-companies directory and submit a pull request.
+Contributions are welcome! 
+Add your company by creating a file in the `companies` directory and submitting a pull request.
 
-This is inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and "Remote" book by DHH and Jason Fried.
+Inspired by [remote-jobs](https://github.com/jessicard/remote-jobs) and the "Remote" book by DHH and Jason Fried.
 
 ## Companies
 

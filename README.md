@@ -13,7 +13,7 @@ Name | Website | Region
 ------------ | ------- | -------
 [Example](companies/example.md) | http://example.com | Worldwide
 BetaSmartz | http://www.betasmartz.com | Worldwide
-Hotjar | http://www.hotjar.com | European Timezone
+[Hotjar](companies/Hotjar.md) | http://www.hotjar.com | European Timezone
 The Scale Factory | http://www.scalefactory.com | UK
 HackerOne | https://hackerone.com/careers | Worldwide
 Analytics Fire | http://analyticsfire.com | Pacific TZ

@@ -24,6 +24,7 @@ HackerOne | https://hackerone.com/careers | Worldwide
 OpenCraft | http://opencraft.com | Worldwide
 Pluralsight | https://www.pluralsight.com/careers | Worldwide
 Qualio | https://www.qualio.com/careers | Worldwide
+Red Hat | https://www.redhat.com/en/jobs | Worldwide
 Scale Factory, The | http://www.scalefactory.com | UK
 Stanson Health | https://www.stansonhealth.com/careers | US
 Zoomforth | https://zoomforth.com | Worldwide

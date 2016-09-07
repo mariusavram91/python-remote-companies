@@ -33,6 +33,6 @@ Fishers, IN, USA
 
 ## Social Media links
 
-* [LinkdIn](http://www.linkedin.com/companies/six-feet-up-inc.)
+* [LinkedIn](http://www.linkedin.com/companies/six-feet-up-inc.)
 * [Twitter](http://twitter.com/sixfeetup)
 * [YouTube](http://www.youtube.com/user/sixfeetupcorp)
